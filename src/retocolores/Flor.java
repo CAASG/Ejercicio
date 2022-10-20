@@ -1,12 +1,12 @@
 package retocolores;
 
-public class Especificaiones {
+public class Flor {
     private int cantidadColores;
     private String nombrePlanta;
     private int numeroFlores;
     private int cantidadEspinas;
     
-    Especificaiones(){
+    Flor(){
     }
 
     public int getCantidadColores() {

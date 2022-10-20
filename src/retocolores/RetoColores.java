@@ -3,7 +3,7 @@ package retocolores;
 public class RetoColores {
 
     public static void main(String[] args) {
-        Especificaiones n1 = new Especificaiones();
+        Flor n1 = new Flor();
         n1.setCantidadColores(2);
         n1.setNombrePlanta("Amapolas");
         n1.setNumeroFlores(2);
